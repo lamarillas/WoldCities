@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoldCities", "WoldCities\WoldCities.csproj", "{8E814AB5-3A96-4B03-8D8E-1AA444C6140D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoldCities.Tests", "WoldCities.Tests\WoldCities.Tests.csproj", "{0305CDD3-1D6D-46E0-9AC5-006E9A849E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E814AB5-3A96-4B03-8D8E-1AA444C6140D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E814AB5-3A96-4B03-8D8E-1AA444C6140D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E814AB5-3A96-4B03-8D8E-1AA444C6140D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E814AB5-3A96-4B03-8D8E-1AA444C6140D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0305CDD3-1D6D-46E0-9AC5-006E9A849E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0305CDD3-1D6D-46E0-9AC5-006E9A849E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0305CDD3-1D6D-46E0-9AC5-006E9A849E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0305CDD3-1D6D-46E0-9AC5-006E9A849E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133A5FA0-5092-434B-9825-1FE1EE411261}
+	EndGlobalSection
+EndGlobal
